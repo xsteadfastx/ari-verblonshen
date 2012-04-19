@@ -1,0 +1,17 @@
+/*
+Theme Name: ari verblonshen
+Description: verblonshen child theme for ari 
+Author: Marvin Steadfast
+Template: ari
+*/
+
+@import url("../ari/style.css");
+
+#content h2 {
+        font-size: 50px;
+        line-height:55px;
+}
+#sidebar-primary .logo h1 {
+        font-size:60px;
+        line-height:65px;
+}       
