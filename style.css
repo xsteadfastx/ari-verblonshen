@@ -11,12 +11,15 @@ Template: ari
         font-size: 50px;
         line-height:55px;
 }
-
 #sidebar-primary .logo h1 {
         font-size:60px;
         line-height:65px;
 }
-
+#page h1 {
+        padding:0px 0px 20px 0px;
+        font-size: 50px;
+        line-height:55px;
+}
 #page h2 {
         font-size: 30px;
         line-height:35px;
