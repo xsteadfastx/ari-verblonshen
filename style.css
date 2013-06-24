@@ -21,6 +21,12 @@ Template: ari
         line-height:55px;
 }
 #page h2 {
-        font-size: 30px;
+	padding: 20px 0px 20px 0px;
+        font-size: 40px;
         line-height:35px;
+}
+#content .post h1 {
+	padding: 20px 0px 20px 0px;
+	font-size: 40px;
+	line-height: 35px;
 }
